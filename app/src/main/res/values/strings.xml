@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="todo">TODO</string>
+    <string name="who_is_the_neetroots">Who is the NeetRoots</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="congrats_your_score_is_34">Congrats your score is 34</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="todos">TODO</string>
+    <string name="Todoss">TODO</string>
+    <string name="todosss">TODO</string>
+    <string name="quiz_app">Quiz App</string>
+</resources>
